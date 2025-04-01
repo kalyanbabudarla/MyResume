@@ -2,7 +2,7 @@
 
 Software Engineer | Web Developer | Technology Enthusiast
 
-📍 Location: City, Country | 📧 Email: john.doe@example.com | 🌐 Website: www.johndoe.com | 📱 Phone: (123) 456-7890
+📍 Location: Chennai, Tamilnadu. | 📧 Email: john.doe@gmail.com | 🌐 Website: www.johndoe.com | 📱 Phone: 1234567890
 
 ---
 
