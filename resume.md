@@ -1,4 +1,4 @@
-# John Doe
+## John Doe
 
 Software Engineer | Web Developer | Technology Enthusiast
 
@@ -24,7 +24,7 @@ University of XYZ | Graduated: May 2022
 
 ## Experience
 
-### Software Engineer | ABC Tech Company
+## Software Engineer | ABC Tech Company
 *June 2022 - Present*
 
 - Developed and maintained web applications using React and Node.js.
@@ -32,7 +32,7 @@ University of XYZ | Graduated: May 2022
 - Implemented API services for user authentication and data management.
 - Wrote unit and integration tests using Jest and Mocha.
 
-### Intern | XYZ Software Inc.
+## Intern | XYZ Software Inc.
 *Summer 2021*
 
 - Assisted in developing a customer portal using Angular.
@@ -43,11 +43,11 @@ University of XYZ | Graduated: May 2022
 
 ## Projects
 
-### Portfolio Website
+## Portfolio Website
 - **Technologies:** HTML, CSS, JavaScript
 - Built a personal portfolio website to showcase projects, skills, and resume.
 
-### Chatbot App
+## Chatbot App
 - **Technologies:** Node.js, Express, MongoDB
 - Developed a chatbot application that assists users with customer service queries.
 
