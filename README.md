@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1wpA1KSXwFN0LRCY0VekF5S34I64TzcSt/view?usp=sharing
+C:\Users\dkba2\Downloads\Copy of IMG_20210314_0003.jpg
 
 # Kalyanbabu Darla
 
