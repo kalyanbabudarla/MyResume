@@ -1,5 +1,5 @@
+![Alt text]("C:\Users\dkba2\Downloads\Copy of IMG_20210314_0003.jpg")
 
- <img src="C:\Users\dkba2\Downloads\Copy of IMG_20210314_0003.jpg" alt="Dashboard" width="400"/>
 
 # Kalyanbabu Darla
 
