@@ -87,10 +87,3 @@ I hereby declare that all the information furnished above is true to the best of
 **(Kalyanbabu Darla)**
 
 ---
-
-> 💡 Replace `your-photo.jpg` with a valid image URL or GitHub-hosted image.  
-> 💻 Customize your GitHub link here: `https://github.com/yourusername/your-resume-repo`
-
----
-
-Let me know if you want this exported as a downloadable `.md` file, turned into a GitHub Pages website, or rendered as a beautiful printable PDF using tools like Pandoc or Resume.md!
