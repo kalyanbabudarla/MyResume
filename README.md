@@ -55,9 +55,10 @@ for the growth of your esteemed organization.
 
 ## 🏅 Certifications
 
-- Internship Training – Cuuro Motors, Chennai  
-- Automobile Assembly Technician – Mahindra Pride School, Chennai  
-- Hardware and Networking – CSC Computer Centre
+- **Apprenticeship & Institute Trainee** – IIT Madras, Chennai
+- **Internship Training** – Cuuro Motors, Chennai  
+- **Automobile Assembly Technician** – Mahindra Pride School, Chennai  
+- **Hardware and Networking** – CSC Computer Centre
 
 ---
 
