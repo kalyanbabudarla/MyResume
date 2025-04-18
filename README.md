@@ -20,7 +20,6 @@ for the growth of your esteemed organization.
 - An enthusiastic fresher with highly motivated and leadership skills  
 - Hard-working and easily adaptable to any environment  
 - Eager to learn new technologies and methodologies
-
 ---
 
 ## 🧰 Work Experience
@@ -31,7 +30,6 @@ for the growth of your esteemed organization.
 - **IIT Madras** – Apprenticeship in Vehicle Maintenance *(2 Years)*  
 - **Curro Motors** – Internship Training *(3 Months)*  
 - **Mahindra Pride School** – Automobile Assembly Technician Training
-
 ---
 
 ## 🎓 Educational Qualifications
@@ -41,7 +39,6 @@ for the growth of your esteemed organization.
 - **Diploma in Civil Engineering** – Meenakshi Krishnan Polytechnic College *(2016)*  
 - **Intermediate (CEC)** – MSR JR. College *(2012)*  
 - **SSC** – KRZP High School *(2009)*
-
 ---
 
 ## 💻 Technical Skills
@@ -50,7 +47,6 @@ for the growth of your esteemed organization.
 - 🗃️ **Database:** MySQL  
 - 📊 **Productivity Tools:** Microsoft Office (Word, Excel, PowerPoint)  
 - 📣 **Digital Marketing:** Social Media Marketing Basics
-
 ---
 
 ## 🏅 Certifications
@@ -59,7 +55,6 @@ for the growth of your esteemed organization.
 - **Internship Training** – Cuuro Motors, Chennai  
 - **Automobile Assembly Technician** – Mahindra Pride School, Chennai  
 - **Hardware and Networking** – CSC Computer Centre
-
 ---
 
 ## 👤 Personal Details
@@ -74,7 +69,6 @@ for the growth of your esteemed organization.
 - **Passport:** U1727614  
 - **Languages Known:** Tamil, English, Telugu, Hindi  
 - **Hobbies:** Badminton, Movies, Caroms
-
 ---
 
 ## 📜 Declaration
