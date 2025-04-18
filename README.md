@@ -4,7 +4,7 @@
 
 📞 **Phone:** (+91) 8144481100  
 📧 **Email:** darlakalyanbabu@gmail.com  
-🌐 **GitHub Resume:** [View on GitHub](https://github.com/yourusername/your-resume-repo)
+🌐 **GitHub Resume:** [View on GitHub](https://kalyanbabudarla.github.io/MyResume/)
 
 ---
 
