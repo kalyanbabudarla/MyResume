@@ -1,6 +1,6 @@
 # Kalyanbabu Darla
 
-![Profile Picture](your-photo.jpg)
+![Profile Picture](pic.jpg)
 
 📞 **Phone:** (+91) 8144481100  
 📧 **Email:** darlakalyanbabu@gmail.com  
